@@ -1,2 +1,2 @@
-# Simle-Bookstore-Application
+# Simple-Bookstore-Application
 Simple CRUD Bookstore Application 
